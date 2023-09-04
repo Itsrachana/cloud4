@@ -1,1 +1,1 @@
-# cloud4
+print("Hello world")
